@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../New folder (2)/web development/Drum Kit Completed/Drum Kit Completed/sounds"
+		},
+		{
+			"path": "../../../New folder (2)/web development/Drum Kit Completed/Drum Kit Completed/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "caps2_project"
+	}
+}
